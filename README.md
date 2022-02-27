@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.com/gutfeeling/univariate-linear-regression.svg?branch=master)](https://travis-ci.com/gutfeeling/univariate-linear-regression)
-[![codecov](https://codecov.io/gh/gutfeeling/univariate-linear-regression/branch/master/graph/badge.svg)](https://codecov.io/gh/gutfeeling/univariate-linear-regression)
+[![Build Status](https://app.travis-ci.com/jdaneserrano/univariate-linear-regression.svg?branch=master)](https://app.travis-ci.com/jdaneserrano/univariate-linear-regression)
 
 
 This repository holds the code for the DataCamp course [Unit Testing for Data Science in Python by Dibya Chakravorty](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python). 
@@ -9,7 +8,7 @@ Please make sure that you have installed the package `univariate_linear_regressi
 To install it, first clone the repo.
 
 ```
-git clone https://github.com/gutfeeling/univariate-linear-regression.git
+git clone https://github.com/jdaneserrano/univariate-linear-regression.git
 ```
 
 Then install the package locally using `pip`, making sure that you are using Python version `>=3.6`.
